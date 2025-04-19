@@ -35,8 +35,21 @@ env/
 .env
 gmail-oauth.json
 token.json
+token.pickle
+*.token
+credentials.json
+*_credentials.json
+client_secret*.json
 travel_data.json
 *.log
+
+# OAuth tokens and credentials
+.credentials/
+.tokens/
+oauth2.json
+.oauth2_token
+*.credentials
+*.tokens
 
 # OS specific
 .DS_Store
