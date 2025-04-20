@@ -1,6 +1,8 @@
+![Iris Logo](iris.png)
+
 # Iris - Your Personal Travel Assistant
 
-Iris is an intelligent travel assistant that helps you track and manage your travel plans by monitoring your emails for travel-related emails. It automatically processes flight bookings, hotel reservations, and activity confirmations to keep all your travel information organized in one place.
+Iris is a personal travel assistant that helps you track and manage your travel plans by monitoring your emails for travel-related emails. It automatically processes flight bookings, hotel reservations, and activity confirmations to keep all your travel information organized in one place.
 
 ## Features
 
@@ -12,8 +14,7 @@ Iris is an intelligent travel assistant that helps you track and manage your tra
 
 ## Setup
 
-1. Create a virtual environment and activate it:
-```bash
+1. Create a virtual environment and activate it:```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
