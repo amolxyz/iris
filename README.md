@@ -1,12 +1,11 @@
 ![Iris Logo](iris.png)
 
-# Iris - Your Personal Travel Assistant
-
-Iris is a personal travel assistant that helps you track and manage your travel plans by monitoring your emails for travel-related emails. It automatically processes flight bookings, hotel reservations, and activity confirmations to keep all your travel information organized in one place.
+# Iris - Personal Travel Assistant
+Iris is a personal travel assistant that uses AI to help track and manage travel plans by monitoring emails for travel-related emails. It automatically processes flight bookings, hotel reservations, and activity confirmations to keep all travel information organized in one place.
 
 ## Features
 
-- 🔍 Automatically detects travel-related emails in your emails
+- 🔍 Automatically detects travel-related emails in emails
 - ✈️ Tracks flights, hotel bookings, and activity reservations
 - 🔄 Handles booking updates and cancellations
 - 📅 Maintains an up-to-date travel itinerary
