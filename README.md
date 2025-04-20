@@ -1,7 +1,7 @@
-![Iris Logo](iris.png)
-
 # Iris - Personal Travel Assistant
-Iris is a personal travel assistant that uses AI to help track and manage travel plans by monitoring emails for travel-related emails. It automatically processes flight bookings, hotel reservations, and activity confirmations to keep all travel information organized in one place.
+Iris is a personal travel assistant that uses AI to help track and manage travel plans by monitoring emails for travel-related emails.
+
+![Iris Logo](iris.png)
 
 ## Features
 
@@ -46,7 +46,7 @@ python travel_assistant.py
 python gmail_integration.py
 ```
 
-The first run will require Gmail authentication through your browser.
+The first run will require Gmail authentication through your browser.`
 
 ## Project Structure
 
@@ -54,7 +54,7 @@ The first run will require Gmail authentication through your browser.
 iris/
 ├── README.md
 ├── requirements.txt
-├── .env
+├── .env`
 ├── travel_assistant.py    # Core travel assistant functionality
 ├── gmail_integration.py   # Gmail API integration
 └── test_emails.py        # Sample email data for testing
